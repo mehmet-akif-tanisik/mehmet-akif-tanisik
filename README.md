@@ -32,7 +32,7 @@ benefiting the operations of the organisation that I work for.
 - Other Tools: Adobe Photoshop and Illustrator
 - CMS Platforms: WordPress
 
-### Cold Facts
+### Key Facts
 
 - I am someone who always tries to be interested about technology and improve myself in different technologies.
 - I am a fast learner and I get experience from my mistakes.
