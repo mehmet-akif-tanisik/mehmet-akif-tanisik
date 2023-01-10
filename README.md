@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there, It's me Mehmet Akif Tanisik👋
 
 <!--
 **mehmet-akif-tanisik/mehmet-akif-tanisik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# About Me
+### About Me
 
 I am a hardworking and ambitious individual with a great passion for the information technology industry. I have graduated from
 the International University of Sarajevo with a Bachelor's degree in Computer Science and Engineering. I have excellent
@@ -32,7 +32,7 @@ benefiting the operations of the organisation that I work for.
 - Other Tools: Adobe Photoshop and Illustrator
 - CMS Platforms: WordPress
 
-# Cold Facts
+### Cold Facts
 
 - I am someone who always tries to be interested about technology and improve myself in different technologies.
 - I am a fast learner and I get experience from my mistakes.
@@ -46,9 +46,9 @@ using WordPress CMS. At the same time, I'm being involved in front-end web devel
 - I am improving myself on Java and Spring-Boot. I want to take these knowledges to even higher levels by evaluating future job
 opportunities.
 
-## Contact
+### Contact
 
-### Mehmet Akif Tanisik 
+#### Mehmet Akif Tanisik 
 
 <a href="https://github.com/mehmet-akif-tanisik" target="_blank">
 <img  src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 20px;" />
