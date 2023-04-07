@@ -46,3 +46,6 @@ I am a hardworking and ambitious individual with a great passion for the informa
 <a href="https://twitter.com/makiftanisik" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 20px; margin-left:20px" />
 </a>
+
+
+> Success is not about being fearless; it's about being brave in the face of fear. Courage is not the absence of fear.
