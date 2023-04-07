@@ -17,34 +17,18 @@ Here are some ideas to get you started:
 
 ### About Me
 
-I am a hardworking and ambitious individual with a great passion for the information technology industry. I have graduated from
-the International University of Sarajevo with a Bachelor's degree in Computer Science and Engineering. I have excellent
-communication skills, enabling me to effectively communicate with a wide range of people. I am eager to be challenged in order
-to grow and further improve my IT skills. My greatest passion is in life is using my technical know-how to benefit other people
-and organisations. I am seeking a position in the industry in which I can put into use my knowledge and experience, ultimately
-benefiting the operations of the organisation that I work for.
+I am a hardworking and ambitious individual with a great passion for the information technology industry. I have graduated with a Bachelor's degree in Computer Science and Engineering. I am eager to be challenged in order to grow and further improve my IT skills. Currently I am working as Java Backend Developer.
 
-- Languages: JAVA, HTML/CSS, JavaScript
+- Languages: JAVA
 - Frameworks: Spring, SpringBoot
-- Databases: MySQL
-- Tools: Visual Studio, Eclipse, Pycharm and Git
+- Databases: MySQL, PostgreSQL, MondoDB
+- Tools: IntellijIDEA, Visual Studio, Eclipse, Pycharm and Git
 - UI / UX Tools: Adobe XD and Figma.
 - Other Tools: Adobe Photoshop and Illustrator
-- CMS Platforms: WordPress
 
-### Key Facts
+### Article
+-> <a href="https://ieeexplore.ieee.org/document/9942793" target="_blank">Diagnosis of Cardiovascular Diseases Using Classification Algorithms</a>
 
-- I am someone who always tries to be interested about technology and improve myself in different technologies.
-- I am a fast learner and I get experience from my mistakes.
-- I have been involved in various software development projects at the university. In this way, I had several opportunities to work
-on different phases of the Software Development Life Cycle (SDLC).
-- I had the opportunity to work on various UI/UX projects in the company where I did my internship. In this way, I have improved
-my design skills.
-- For several years, I had the opportunity to improve myself in web development through the websites that I have developed
-using WordPress CMS. At the same time, I'm being involved in front-end web development using HTML5, CSS3, and JavaScript.
-- Trying to improve my database knowledge and getting hands on experience in MySQL.
-- I am improving myself on Java and Spring-Boot. I want to take these knowledges to even higher levels by evaluating future job
-opportunities.
 
 ### Contact
 
